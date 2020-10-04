@@ -12,6 +12,7 @@
     <color name="dialog_color">#696969</color>
     <color name="facebook">#507EFA</color>
     <color name="insta">#E93030</color>
+    <color name="chat">#28ACACAC</color>
     <!-- <color name="colorPrimaryDark1">#D32F2F</color>-->
     <!--  <color name="colorPrimary1">#F44336</color> -->
 </resources>
