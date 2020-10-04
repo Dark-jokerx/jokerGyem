@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181207285124",
+    "firebase_url": "https://joker-gym-bb2bf.firebaseio.com",
+    "project_id": "joker-gym-bb2bf",
+    "storage_bucket": "joker-gym-bb2bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181207285124:android:e666e803dc546416b171d1",
+        "android_client_info": {
+          "package_name": "com.gym.jokergym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181207285124-1qjuagk8eutql6ijvjab725kgphjm5lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFiuLI9gahF9oCVAt7JjzBJeJcUwFrJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181207285124-1qjuagk8eutql6ijvjab725kgphjm5lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

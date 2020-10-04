@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/bottons</item>
+        <item name="colorPrimaryDark">@color/snak_bar</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gym.jokergym">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher1"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher1_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-7856542270150897~5514598321" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity android:name=".chat.ChatMainActivity" />
+        <activity android:name=".content_us" />
+        <activity android:name=".secondWeek.seWeek7_java" />
+        <activity android:name=".secondWeek.seWeek6_java" />
+        <activity android:name=".secondWeek.seWeek5_java" />
+        <activity android:name=".secondWeek.seWeek4_java" />
+        <activity android:name=".secondWeek.seWeek3_java" />
+        <activity android:name=".secondWeek.seWeek2_java" />
+        <activity android:name=".secondWeek.seWeek1_java" />
+        <activity android:name=".secondWeek.secondMonth" />
+        <activity android:name=".firstWeek.firstMonth" />
+        <activity android:name=".firstWeek.week7_java" />
+        <activity android:name=".firstWeek.week6_java" />
+        <activity android:name=".firstWeek.week5_java" />
+        <activity android:name=".firstWeek.week4_java" />
+        <activity android:name=".firstWeek.week3_java" />
+        <activity android:name=".firstWeek.week2_java" />
+        <activity android:name=".firstWeek.week1" />
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".Splash_screen"
+            android:theme="@style/Theme.Design.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

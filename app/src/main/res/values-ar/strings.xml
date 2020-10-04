@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joker Gym</string>
+    <string name="Button_1">يوم الأثنين</string>
+    <string name="button_2">يوم الثلاثاء</string>
+    <string name="button_3">يوم الأربعاء</string>
+    <string name="button_4">يوم الخميس</string>
+    <string name="button_5">يوم الجمعة</string>
+    <string name="button_6">يوم السبت</string>
+    <string name="button_7">يوم الأحد</string>
+    <string name="first_week">الأسبوع الأول</string>
+    <string name="second_week">الأسبوع الثاني</string>
+    <string name="the_program">البرنامج الرياضي</string>
+    <string name="send">ارسال</string>
+    <string name="rr">ارسال</string>
+    <string name="q">أرسال</string>
+    <string name="massage_send">هل تريد ارسال الرسالة ألينا؟</string>
+    <string name="title_activity_login">واجهة تسجيل الددخول</string>
+    <string name="prompt_email">الأيميل</string>
+    <string name="prompt_password">كلمة السر</string>
+    <string name="action_sign_in">تسجيل الدخول أو أنشاء حساب</string>
+    <string name="action_sign_in_short">تسجيل الدخول</string>
+    <string name="welcome">مرحبا بك !</string>
+    <string name="invalid_username">اسم المستخدم لايصلح</string>
+    <string name="invalid_password">"كلمة المرور يجب ان تكون من 5 حروف او اكثر "</string>
+    <string name="login_failed">فشل تسجيل الدخول</string>
+    <string name="send_button_label">أرسال</string>
+    <string name="sign_out">تسجيل الخروج</string>
+    <string name="the_developer">المطور</string>
+    <string name="abdulkrem_davud">عبدالكريم داوود</string>
+    <string name="fullow_me">تابعنا !</string>
+    <string name="Close">إغلاق</string>
+    <string name="ui_ux_designer">المصمم</string>
+    <string name="adil_seyho">عادل شيخو</string>
+    <string name="welecome_back">"مرحبا بعودتك "</string>
+</resources>

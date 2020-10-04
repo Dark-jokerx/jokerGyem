@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/body2"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:gravity="center_horizontal"
+            android:textAlignment="center"
+            android:text="@string/second_week"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/seWeek1_botton"
+            android:background="@drawable/cornes"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:text="@string/Button_1"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/seWeek2_botton"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="1"
+            android:background="@drawable/cornes"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_margin="10dp"
+            android:text="@string/button_2" />
+        <Button
+            android:id="@+id/seWeek3_botton"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/cornes"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:text="@string/button_3" />
+        <Button
+            android:id="@+id/seWeek4_botton"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="@drawable/cornes"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:text="@string/button_4" />
+        <Button
+            android:id="@+id/seWeek5_botton"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/cornes"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:layout_weight="1"
+            android:text="@string/button_5" />
+        <Button
+            android:id="@+id/seWeek6_botton"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/cornes"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:text="@string/button_6" />
+        <Button
+            android:id="@+id/seWeek7_botton"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/cornes"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            android:text="@string/button_7" />
+    </LinearLayout>
+</ScrollView>
